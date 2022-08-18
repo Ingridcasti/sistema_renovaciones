@@ -1,0 +1,12 @@
+body {
+  font-size: .875rem;
+}
+
+.container {
+    max-width: 760px;
+  }
+
+  .container_header{
+    max-width: 1350px;
+  }
+  
